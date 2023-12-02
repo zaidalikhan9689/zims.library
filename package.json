@@ -1,6 +1,6 @@
 {
-  "name": "extract-barcode",
-  "version": "1.0.3",
+  "name": "@zaid/extract-barcode",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
