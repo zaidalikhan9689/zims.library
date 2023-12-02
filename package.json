@@ -1,5 +1,5 @@
 {
-  "name": "@zaid/extract-barcode",
+  "name": "zaid-extract-barcode",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
